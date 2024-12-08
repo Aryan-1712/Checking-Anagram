@@ -1,5 +1,6 @@
 # Checking-Anagram
-The code is in python and uses the concept of control statements for iterating thtough the strings and checking if they are anagram or not.
+The code is in python and uses the concept of control statements 
+for iterating thtough the strings and checking if they are anagram or not.
 
 PSEUDO CODE
 START
