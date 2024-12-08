@@ -1,2 +1,10 @@
 # Checking-Anagram
-This code is of checking if the two strings entered by the user is an anagram or not.
+The code is in python and uses the concept of control statements for iterating thtough the strings and checking if they are anagram or not.
+
+PSEUDO CODE
+START
+INPUT string1, string2
+CREATE empty lists L1, L2
+ITERATE over string1, string2
+APPEND letters in lists
+CHECK if lists are EQUAL
